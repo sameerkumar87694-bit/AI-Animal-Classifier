@@ -1,0 +1,7 @@
+{
+  "name": "AI Animal Type Classification",
+  "description": "An AI-driven system to automate Animal Type Classification for cattle and buffaloes by analyzing their images to evaluate physical traits and generate standardized scores, enhancing accuracy and efficiency for breeding programs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
